@@ -14,6 +14,7 @@
 - GitLens
 - Visual Studio IntelliCode
 - Bracket Pair Colorizer
+- path intellisense
 
 ### python
 
